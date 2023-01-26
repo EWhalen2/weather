@@ -42,3 +42,5 @@ weather_data = JSON.parse(response)
 # city = gets.chomp
 # puts city
 # Note: what happens if the user-entered value is not a known city? You'll want to do some error handling.
+
+#This is another note to prove that I can save this. -Emmett on 25JAN22 at 2325
